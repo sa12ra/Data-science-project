@@ -34,6 +34,7 @@ Our model got a 95% accuracy on the training dataset. With matplotlib, we plot t
 •	Keras, Tkinter
 # COMMUNICATION
 plotting graphs for accuracy & loss
+
 ![image](https://user-images.githubusercontent.com/94700188/146266416-7f33030b-3244-41c6-b373-eb00ed38e0c3.png)
 ![image](https://user-images.githubusercontent.com/94700188/146267271-536c8fbf-67e4-4e0f-ab48-999979676243.png)
 
